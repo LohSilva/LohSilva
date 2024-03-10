@@ -8,7 +8,3 @@ Olá pessoal 👋, sejam bem vindos!
 - ⚙️ Conhecimentos básicos em Java, JavaScript, Banco de Dados e HTML.
 - 🥷 Aprendendo metodologias ágeis.
 - 🏃‍♀️ Proativa, criativa e em busca de novos desafios.
-
-- ![Ola_Mundo](D:\Projetos_DIO\ola_mundo.jpeg)
-
-

@@ -9,4 +9,6 @@ Olá pessoal 👋, sejam bem vindos!
 - 🥷 Aprendendo metodologias ágeis.
 - 🏃‍♀️ Proativa, criativa e em busca de novos desafios.
 
+- ![Ola_Mundo](D:\Projetos_DIO\ola_mundo.jpeg)
+
 

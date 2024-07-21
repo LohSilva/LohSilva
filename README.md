@@ -2,12 +2,12 @@
 
 ## Sou a Lo-Ruama Silva, abaixo um pouco sobre mim 
 
-- 📚 Sou aprendiz de TI, a cada dia aprendo algo novo, desenvolvo um pouco mais 🚀
-- 👩‍🎓 Universitária em TI
-- 👩‍💻 Analista de Canais Digitais em uma multinacional
-- ⚙️ Conhecimentos básicos em Java, JavaScript, Banco de Dados e HTML
-- 🥷 Desenvolvendo novas habilidades: metodologias ágeis
-- 🏃‍♀️ Proativa, criativa e em busca de novos desafios
+- 📚 Aprendiz de TI: Cada dia é uma nova oportunidade para aprender e desenvolver minhas habilidades. 🚀
+- 👩‍🎓 Universitária: Comprometida com a excelência acadêmica e o crescimento contínuo.
+- 👩‍💻 Analista de Canais Digitais em uma multinacional transformando a experiência digital dos clientes.
+- ⚙️ Conhecimentos em Java, JavaScript, Banco de Dados e HTML.
+- 🥷 Desenvolvendo novas habilidades: Especializando-me em metodologias ágeis para otimizar processos.
+- 🏃‍♀️ Proativa, criativa e sempre em busca de novos desafios
 
 ## Conecte-se comigo:
 

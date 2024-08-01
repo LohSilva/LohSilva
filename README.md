@@ -7,7 +7,7 @@
 - 👩‍💻 Analista de Canais Digitais em uma multinacional transformando a experiência digital dos clientes.
 - ⚙️ Conhecimentos em Java, JavaScript, Banco de Dados e HTML.
 - 🥷 Desenvolvendo novas habilidades: Especializando-me em metodologias ágeis para otimizar processos.
-- 🏃‍♀️ Proativa, criativa e sempre em busca de novos desafios
+- 🏃‍♀️ Proativa, criativa e sempre em busca de novos desafios.
 
 ## Conecte-se comigo:
 

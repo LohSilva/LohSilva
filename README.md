@@ -8,7 +8,7 @@
 - ⚙️ Conhecimentos em Java, JavaScript, Banco de Dados e HTML.
 - 🥷 Desenvolvendo novas habilidades: Especializando-me em metodologias ágeis para otimizar processos.
 - 🏃‍♀️ Proativa, criativa e sempre em busca de novos desafios.
-- 🚀 Conheça [meu portfólio](https://meu-portfolio-psi-one.vercel.app/)
+- 🚀 Conheça [meu portfólio](https://meu-portfolio-psi-one.vercel.app/).
 
 ## Conecte-se comigo:
 
